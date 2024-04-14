@@ -141,10 +141,10 @@ nav a:hover{
     color: white;
 }
 
-body {
+/* body {
     border: 5px solid black; /* Add a thin border to the entire page */
 }
-
+ */
 #navicenter{
     text-align: center; 
 }
