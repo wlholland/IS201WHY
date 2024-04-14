@@ -62,13 +62,6 @@ iframe{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
 } */ 
 
-#centeralign {
-    width: 80%; /* Adjust the width to your preference */
-    margin: 0 auto; /* Center-align the list */
-    text-align: left; /* Left-align the list items */
-    margin-left: 75%;
-}
-
 #centeralign li {
     max-width: 600px;
     margin-bottom: 10px;
@@ -156,7 +149,7 @@ nav a:hover{
 #centeralign {
     width: 80%; /* Adjust the width to your preference */
     margin: 0 auto; /* Center-align the list */
-    text-align: left; /* Left-align the list items */
+    text-align: middle; /* Left-align the list items */
 }
 
 #centeralign li {
