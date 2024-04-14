@@ -148,3 +148,33 @@ nav a:hover{
 #navicenter{
     text-align: center; 
 }
+
+
+/*new styles*/
+
+
+#centeralign {
+    width: 80%; /* Adjust the width to your preference */
+    margin: 0 auto; /* Center-align the list */
+    text-align: left; /* Left-align the list items */
+}
+
+#centeralign li {
+    max-width: 600px;
+    margin-bottom: 10px;
+}
+
+#centeralign ul {
+    padding-left: 20px; /* Indent the unordered list */
+}
+
+#centeralign p {
+    margin: 0;
+    text-align: left; /* left-align the sub-category text */
+}
+
+#newcentersub1{
+    margin: 0;
+    text-align: center; /* Center-align the paragraphs */
+    margin-left: 40%;
+}
