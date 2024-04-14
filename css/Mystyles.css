@@ -157,7 +157,6 @@ nav a:hover{
     width: 80%; /* Adjust the width to your preference */
     margin: 0 auto; /* Center-align the list */
     text-align: left; /* Left-align the list items */
-    margin-left: 50%; /* Adjust the margin-left value as needed */
 }
 
 #centeralign li {
