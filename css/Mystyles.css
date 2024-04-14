@@ -150,6 +150,7 @@ nav a:hover{
     width: 80%; /* Adjust the width to your preference */
     margin: 0 auto; /* Center-align the list */
     text-align: middle; /* Left-align the list items */
+    padding-left: 50px; Left-indent the bullet points */
 }
 
 #centeralign li {
