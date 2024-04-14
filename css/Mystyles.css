@@ -172,3 +172,7 @@ nav a:hover{
     text-align: center; /* Center-align the paragraphs */
     margin-left: 40%;
 }
+
+#shiftcontainer{
+    margin-left: 5%; /* Adjust the margin-left value as needed */
+}
